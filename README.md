@@ -4,4 +4,6 @@
 visual studio 2015 + Opencv3.3.1
 
 针对的是图像，不是视频。实现的是原论文内容的前半部分。
-test.cpp是源程序test_1.bmp是待增强的图像，result.bmp是增强后的结果。
+test.cpp是源程序
+test_1.bmp是待增强的图像
+result.bmp是增强后的结果。
